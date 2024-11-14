@@ -21,6 +21,7 @@ Utwórz plik .env (np. z kluczem API).
 ## Uruchomienie
 Uruchom aplikację:
 node app.js
+Aby wygenerować prompt który ma zostać zaimplementowany w outpucie należy znaleźć zmienną "prompt", następnie zedytować ją według własnych preferencji zachowując zasady działania stringów w Javascript.
 Wygenerowany plik HTML znajdziesz w output/artykul.html.
 
 ## Struktura
